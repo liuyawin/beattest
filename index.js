@@ -1,1 +1,3 @@
-console.log(111);
+export default function aa() {
+    console.log(111);
+}
