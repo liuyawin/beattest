@@ -1,6 +1,6 @@
 {
   "name": "beattest",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
     "type": "git",
     "url": "https://github.com/liuyawin/beattest"
   },
-  "gitHead": "5ef70a516ff864480c1763c3e211cc379f929777"
+  "gitHead": "0e67f24add7655fad5c3687153e1b396f3090137"
 }
